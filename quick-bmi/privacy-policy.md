@@ -28,7 +28,7 @@ If third-party analytics, advertising, crash-reporting services, or other data-c
 
 ## 6. Children's Privacy
 
-Quick BMI Calculator is intended for adults aged 20 and older and is not designed for children.
+Quick BMI Calculator is intended for adults aged 18 and older and is not designed for children.
 
 ## 7. Changes to This Policy
 
@@ -38,4 +38,4 @@ This Privacy Policy may be updated if the app's features or data practices chang
 
 **Developer:** FutureDevSpace
 
-**Email:** YOUR_PUBLIC_DEVELOPER_EMAIL
+**Email:** futuredevspace@gmail.com
